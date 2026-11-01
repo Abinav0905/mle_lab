@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.1.4
+pyarrow==16.1.0
+pyspark==3.5.4
+scikit-learn==1.5.2
+xgboost-cpu==2.1.4
+matplotlib==3.9.2

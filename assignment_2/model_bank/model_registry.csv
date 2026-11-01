@@ -1,0 +1,3 @@
+model_version,train_date,model_type,train_test_months,oot_months,n_train,n_features,n_features_excluded,auc_test,auc_oot,gini_test,gini_oot,threshold,artefact
+credit_model_2024_01_01,2024-01-01,xgboost,2023-01-01 to 2023-04-01,2023-05-01 to 2023-06-01,1637,67,0,0.7891,0.8331,0.5783,0.6663,0.3551,model_bank/credit_model_2024_01_01.pkl
+credit_model_2024_08_01,2024-08-01,xgboost,2023-02-01 to 2023-11-01,2023-12-01 to 2024-01-01,3951,47,20,0.8248,0.8104,0.6497,0.6208,0.2438,model_bank/credit_model_2024_08_01.pkl
